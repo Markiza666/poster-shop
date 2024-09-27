@@ -42,6 +42,7 @@ body {
             padding: 96px 0;
             display: grid;
             grid-template-columns: 1fr 1fr 1fr;
+            grid-template-rows: 1fr 1fr 1fr;
             gap: 2rem;
             article{
                 img {
@@ -70,6 +71,7 @@ body {
             padding: 0 0 96px 0;
             display: grid;
             grid-template-columns: 1fr 1fr;
+            grid-template-rows: 1fr;
             gap: 2rem;
             .korg{
                 background-color: white;
